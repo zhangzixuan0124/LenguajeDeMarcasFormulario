@@ -1,0 +1,42 @@
+body{
+
+    background-color: white;
+    margin-top: 10%;
+    
+}
+p{
+
+    font-size: 15px;
+    
+}
+.Left{
+    text-align: left;
+}
+.center{
+    text-align: center;
+}
+div{
+    width: 60%;
+    margin-left: 40%;
+    font-size: 12px;
+}
+.input{
+
+    width: 30%;
+    height: 30px;
+}
+h1{
+
+    text-align: center;
+}
+.parrf{
+    text-align: center;
+}
+.botton{
+
+    width: 30%;
+    height: 60px;
+    background-color: rgb(50, 205, 71);
+    color: white;
+    font-size: 20px;
+}
